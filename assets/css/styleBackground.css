@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+header{
+    margin-top: -25px;
+    background-image: url(../img/bg-galaxy.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(112, 2, 140);
+    text-align: center;
+    padding-top: 175px;
+}
